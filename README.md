@@ -42,8 +42,3 @@ Notes:
 - The SQLite database (database.db) will be created automatically when you first run the app.
 - Do not include `database.db` in GitHub; it is included in `.gitignore`.
 
-Author:
-- Your Name
-
-License:
-- MIT License (if applicable)
